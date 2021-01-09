@@ -3,8 +3,8 @@
 ## Features
 Added multiple validations on login screen.<br/>
 Username password pairs which will work:<br/>
-9898989898 / password123 <br/>
-9876543210 / password123<br/>
+User1 : 9898989898 / password123 <br/>
+User2 : 9876543210 / password123<br/>
 Created a mock server for user details section<br/>
 
 ## Some screenshots
