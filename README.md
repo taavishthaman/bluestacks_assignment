@@ -1,16 +1,19 @@
-# bluestacks_assignment
+# Bluestacks Assignment
 
-A new Flutter application.
+##Features
+Added multiple validations on login screen.<br/>
+Username password pairs which will work:<br/>
+9898989898 / password123 <br/>
+9876543210 / password123<br/>
+Created a mock server for user details section<br/>
 
-## Getting Started
+##Some screenshots
+<img src="https://github.com/TaavishThaman/bluestacks_assignment/blob/master/Screenshot_1.jpg" height="650" width="380" >
+<br/>
+<img src="https://github.com/TaavishThaman/bluestacks_assignment/blob/master/Screenshot_2.jpg" height="650" width="380" >
+<br/>
+<img src="https://github.com/TaavishThaman/bluestacks_assignment/blob/master/Screenshot_3.jpg" height="650" width="380" >
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
